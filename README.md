@@ -14,7 +14,7 @@
 
 - [피그잼](https://www.figma.com/file/yIj9mmyghqyUOIEweIpMed/Untitled?type=design&node-id=0-1)
 
-- [피그](https://www.figma.com/file/yIj9mmyghqyUOIEweIpMed/Untitled?type=design&node-id=0-1&t=0oySVFtLVJ5belTV-0)
+- [피그마](https://www.figma.com/file/yIj9mmyghqyUOIEweIpMed/Untitled?type=design&node-id=0-1&t=0oySVFtLVJ5belTV-0)
 
 
 ## 기술 스택
